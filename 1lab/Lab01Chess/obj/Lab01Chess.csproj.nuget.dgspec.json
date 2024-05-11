@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Desktop\\Lab01Chess\\Lab01Chess.csproj": {}
+    "C:\\Users\\1\\Desktop\\Test2\\MOSHI\\1lab\\Lab01Chess\\Lab01Chess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Desktop\\Lab01Chess\\Lab01Chess.csproj": {
+    "C:\\Users\\1\\Desktop\\Test2\\MOSHI\\1lab\\Lab01Chess\\Lab01Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\Lab01Chess\\Lab01Chess.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\Test2\\MOSHI\\1lab\\Lab01Chess\\Lab01Chess.csproj",
         "projectName": "Lab01Chess",
-        "projectPath": "C:\\Users\\1\\Desktop\\Lab01Chess\\Lab01Chess.csproj",
+        "projectPath": "C:\\Users\\1\\Desktop\\Test2\\MOSHI\\1lab\\Lab01Chess\\Lab01Chess.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\Lab01Chess\\obj\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\Test2\\MOSHI\\1lab\\Lab01Chess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",

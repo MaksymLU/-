@@ -11,10 +11,10 @@ namespace Lab01Chess
         {
             // Параметри алгоритму
             int boardSize = 8;
-            int maxIterations = 10000;
+            int maxIterations = 20000;
             double initialTemperature = 1000;
             double coolingRate = 0.95;
-
+            //second text
             // Виведення початкового стану дошки з рандомно розставленими ферзями
             Console.WriteLine("Початковий стан дошки з рандомно розставленими ферзями:");
             Board initialBoard = new Board(boardSize);
